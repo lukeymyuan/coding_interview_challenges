@@ -1,1 +1,1 @@
-# Online Coding Tests
+Implementation of coding puzzles
